@@ -1,0 +1,36 @@
+.padding{
+   border: 5px solid rgb(2, 9, 50) ;
+    margin: 30px;
+    width: 150px;
+    height: 230px;
+    padding: 10px;
+    color: blueviolet;
+}
+.home{
+border: 2px solid black;
+outline: 1px double blue;
+width:max-content;
+}
+.news{
+border: 2px solid black;
+outline: 1px double blue;
+width:max-content;
+}
+.search{
+    border: 2px solid black;
+    outline: 1px double blue;
+    width:max-content;  
+}
+.contact{
+border: 2px solid black;
+outline: 1px double blue;
+width:max-content;
+}
+.about{
+ border: 2px solid black;
+ outline: 1px double blue;
+width:max-content;
+}
+i{
+    color: blue;
+}
