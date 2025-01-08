@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    background-color: rgb(50, 53, 53);
+    color: aliceblue;
+    justify-content: end;
+
+}
+li{
+    display: inline;
+    padding-right: 15px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+
+a:hover{
+    background-color: rgb(50, 53, 53);
+   font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+    height: 55px;
+    width: 58px;
+}
+a:active::after{
+    content: ">";
+}
+a:active::before{
+    content: "*";
+}
+a:active{
+    background-color: yellow;
+    color: black;
+    font-family: cursive;
+}

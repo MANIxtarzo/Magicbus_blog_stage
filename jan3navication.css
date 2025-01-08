@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    background-color: rgb(50, 53, 53);
+    color: aliceblue;
+    justify-content: end;
+
+}
+.nav2{
+    display: flex;
+    background-color:rgb(22, 26, 26);
+    height: 50px;
+    padding: 0;
+}
+li{
+    display: inline;
+    padding-right: 19px;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.img{
+    width: 150px;
+    height: 50px;
+}
+.img2{
+    width: 200px;
+    height: 50px;
+} 
+.img3{
+    height:50px;
+}
+.img4{
+    height: 50px;
+}
+.img5{
+    width: 1510px;
+  
+}

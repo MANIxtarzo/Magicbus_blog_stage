@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(171, 203, 231);
+}
+h1{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    
+}
+.img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
+p{
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
+h6{
+    text-align: end;
+}
